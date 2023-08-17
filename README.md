@@ -27,7 +27,7 @@ Navigate to the project directory:
 
 Open the index.html file in your browser to use the random quote generator.
 
-How It Works
+## How It Works
 The Random Quote Generator uses JavaScript to randomly select a quote from an api  and display it on the webpage. The quotes are stored in an array, and clicking the "Generate Quote" button triggers the process to select and display a new random quote.
 
 Created with ❤️ by Tanu Goel
